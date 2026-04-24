@@ -1,14 +1,14 @@
-# Hey, I'm Leonardo
+# 👋 Hi
 
-Software engineer from Brazil, based in Valencia, Spain. I work with JavaScript, React, TypeScript, Node.js, and Go. Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — 66K+ GitHub stars, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
+My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia, Spain. I work with JavaScript, React, TypeScript, Node.js, and Go. Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — 66K+ GitHub stars, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
 
 ## About me
 
-- 7+ years building for the web, from early-stage startups to international product companies.
-- 100+ published technical articles on JavaScript, TypeScript, React, and Node.js across LogRocket and Progress.
-- Open source contributor — Better Auth, Node.js, TanStack, among others.
+- 👨‍💻 7+ years building for the web, from early-stage startups to international product companies.
+- ✍️ 100+ published technical articles on JavaScript, TypeScript, React, and Node.js across LogRocket and Progress.
+- 🌍 Open source contributor — Better Auth, Node.js, TanStack, among others.
 
-## Projects
+## 🚀 Projects
 
 | Project | Description |
 |---------|-------------|
