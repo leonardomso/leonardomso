@@ -4,11 +4,11 @@ My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia,
 
 ## About me
 
-- 👨‍💻 7+ years building for the web, from early-stage startups to international product companies.
-- ✍️ 100+ published technical articles on JavaScript, TypeScript, React, and Node.js across LogRocket and Progress.
-- 🌍 Open source contributor — Better Auth, Node.js, TanStack, among others.
+- 7+ years building for the web, from early-stage startups to international product companies.
+- 100+ published technical articles on JavaScript, TypeScript, React, and Node.js across LogRocket and Progress.
+- I like building side projects and I'm always learning new things.
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 |---------|-------------|
