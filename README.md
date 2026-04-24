@@ -10,12 +10,10 @@ My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia,
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | Every JS concept you need to know — 66K+ stars, community translations in 40+ languages |
-| [Shopwyse](https://www.getshopwyse.com/) | Full-stack multi-tenant ERP for retailers — POS, inventory, CRM, and financial reporting |
-| [Polyglot](https://www.trypolyglot.ai/) | AI-powered writing assistant — guided interviews, multiple draft angles, content refinement in your voice |
-| [Otis Finance](https://otisfinance.com/) | Stock market data API — real-time prices, SEC filings, earnings, and financials |
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) — Every JS concept you need to know. 66K+ stars, community translations in 40+ languages.
+- [Shopwyse](https://www.getshopwyse.com/) — Full-stack multi-tenant ERP for retailers. POS, inventory, CRM, and financial reporting.
+- [Polyglot](https://www.trypolyglot.ai/) — AI-powered writing assistant. Guided interviews, multiple draft angles, content refinement in your voice.
+- [Otis Finance](https://otisfinance.com/) — Stock market data API. Real-time prices, SEC filings, earnings, and financials.
 
 ## Get in touch
 
