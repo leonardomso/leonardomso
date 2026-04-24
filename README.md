@@ -10,10 +10,15 @@ My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia,
 
 ## Projects
 
+I like to build things and learn by doing. Here are some of my projects:
+
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) — Every JS concept you need to know. 66K+ stars, community translations in 40+ languages.
 - [Shopwyse](https://www.getshopwyse.com/) — Full-stack multi-tenant ERP for retailers. POS, inventory, CRM, and financial reporting.
 - [Polyglot](https://www.trypolyglot.ai/) — AI-powered writing assistant. Guided interviews, multiple draft angles, content refinement in your voice.
 - [Otis Finance](https://otisfinance.com/) — Stock market data API. Real-time prices, SEC filings, earnings, and financials.
+- [gone](https://github.com/leonardomso/gone) — Fast, concurrent dead link detector for files.
+- [rust-skills](https://github.com/leonardomso/rust-skills) — A collection of 179 rules that AI coding agents can use when writing Rust.
+- [betterhook](https://github.com/leonardomso/betterhook) — Fast, worktree-native git hooks manager built for parallel AI coding agents.
 
 ## Get in touch
 
