@@ -1,24 +1,29 @@
 # 👋 Hi
 
-My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia, Spain. I work with JavaScript, React, TypeScript, Node.js, and Go. Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — 66K+ GitHub stars, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
+My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia, Spain. 7+ years building for the web — from early-stage startups to international product companies.
+
+Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — 66K+ GitHub stars, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
 
 ## About me
 
-- 7+ years building for the web, from early-stage startups to international product companies.
-- 100+ published technical articles on JavaScript, TypeScript, React, and Node.js across LogRocket and Progress.
-- I like building side projects and I'm always learning new things.
+- Previously sole frontend engineer on [Spaceship](https://www.spaceship.com) at Namecheap, working on their domain search product.
+- Written 100+ technical articles on JavaScript, TypeScript, React, and Node.js for [LogRocket](https://blog.logrocket.com/author/leonardomaldonado/) and [Progress](https://www.telerik.com/blogs/author/leonardo-maldonado).
+- I build things across languages — JavaScript, TypeScript, Go, Rust — because shipping is how I learn.
 
 ## Projects
 
-I like to build things and learn by doing. Here are some of my projects:
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) — 33 JavaScript concepts every developer should know. 66K+ stars and translated into 40+ languages by the community.
+- [Shopwyse](https://www.getshopwyse.com/) — An ERP I built for retailers who need POS, inventory, CRM, and financial reporting under one roof. TanStack Start, Elysia, PostgreSQL.
+- [Polyglot](https://www.trypolyglot.ai/) — An AI writing assistant that interviews you first, then drafts content in your voice from different angles.
+- [Otis Finance](https://otisfinance.com/) — A stock market API for real-time prices, SEC filings, earnings, and financials.
+- [gone](https://github.com/leonardomso/gone) — I wanted a dead link detector that was actually fast, so I wrote one in Go. Concurrent, has a TUI, and works in CI.
+- [betterhook](https://github.com/leonardomso/betterhook) — A git hooks manager I built in Rust because existing ones don't handle worktrees or parallel agents well. DAG scheduling, blake3 caching, Tokio under the hood.
+- [rust-skills](https://github.com/leonardomso/rust-skills) — 179 rules I wrote so AI coding agents stop guessing when they write Rust.
 
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) — Every JS concept you need to know. 66K+ stars, community translations in 40+ languages.
-- [Shopwyse](https://www.getshopwyse.com/) — Full-stack multi-tenant ERP for retailers. POS, inventory, CRM, and financial reporting.
-- [Polyglot](https://www.trypolyglot.ai/) — AI-powered writing assistant. Guided interviews, multiple draft angles, content refinement in your voice.
-- [Otis Finance](https://otisfinance.com/) — Stock market data API. Real-time prices, SEC filings, earnings, and financials.
-- [gone](https://github.com/leonardomso/gone) — Fast, concurrent dead link detector for files.
-- [rust-skills](https://github.com/leonardomso/rust-skills) — A collection of 179 rules that AI coding agents can use when writing Rust.
-- [betterhook](https://github.com/leonardomso/betterhook) — Fast, worktree-native git hooks manager built for parallel AI coding agents.
+## Writing
+
+- [LogRocket Blog](https://blog.logrocket.com/author/leonardomaldonado/) — React, TypeScript, frontend architecture.
+- [Progress / Telerik Blog](https://www.telerik.com/blogs/author/leonardo-maldonado) — React, Node.js, modern JavaScript.
 
 ## Get in touch
 
