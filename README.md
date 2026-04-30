@@ -6,7 +6,7 @@ Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concept
 
 ## About me
 
-- Previously sole frontend engineer on [Spaceship](https://www.spaceship.com) at Namecheap, working on their domain search product.
+- For four and a half years, the sole frontend engineer on [Spaceship](https://www.spaceship.com) domain search at Namecheap — helped the platform sell 3M+ domains.
 - Written 100+ technical articles on JavaScript, TypeScript, React, and Node.js for [LogRocket](https://blog.logrocket.com/author/leonardomaldonado/) and [Progress](https://www.telerik.com/blogs/author/leonardo-maldonado).
 - I build things across languages — JavaScript, TypeScript, Go, Rust — because shipping is how I learn.
 
