@@ -2,7 +2,7 @@
 
 My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia, Spain. 7+ years building for the web — from early-stage startups to international product companies.
 
-Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — 66K+ GitHub stars, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
+Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — helped thousands of developers to learn JavaScript, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
 
 ## About me
 
