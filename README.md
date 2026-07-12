@@ -12,7 +12,7 @@ Online coaches lose clients for one simple reason: they can't reply fast enough.
 
 ### [Strait](https://strait.dev) — a home for your background jobs
 
-Strait is an open-source tool for running background jobs and multi-step workflows. It uses the Postgres database you already have instead of making you set up Redis or a separate queue. You get reliable job queues, workflows you can pause for manual approval, and a clear view of everything that's running. It's written in Go, with libraries for TypeScript, Python, Go, Ruby, and Rust.
+Strait is an **open-source** tool for running background jobs and multi-step workflows — the code lives on GitHub at [strait-dev/strait](https://github.com/strait-dev/strait). It uses the Postgres database you already have instead of making you set up Redis or a separate queue. You get reliable job queues, workflows you can pause for manual approval, and a clear view of everything that's running. Written in Go, self-hostable, Apache-2.0 licensed, with libraries for TypeScript, Python, Go, Ruby, and Rust.
 
 ## Also built
 
