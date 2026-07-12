@@ -1,29 +1,33 @@
-# 👋 Hi
+# 👋 Hi, I'm Leonardo
 
-My name is Leonardo Maldonado. Software engineer from Brazil, based in Valencia, Spain. 7+ years building for the web — from early-stage startups to international product companies.
+I'm a software engineer from Brazil, living in Valencia, Spain. Over the past 7+ years I've built for the web at everything from two-person startups to international product companies, and today I spend most of my time building products of my own.
 
-Creator of [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts) — helped thousands of developers to learn JavaScript, translated into 40+ languages, recognized by GitHub as a top open-source project of 2018.
+For four and a half years I was the only frontend engineer behind [Spaceship](https://www.spaceship.com)'s domain search at Namecheap, where the platform sold more than 3 million domains. Outside of work I've written 100+ articles on JavaScript, TypeScript, React, and Node.js for [LogRocket](https://blog.logrocket.com/author/leonardomaldonado/) and [Progress/Telerik](https://www.telerik.com/blogs/author/leonardo-maldonado), and I like moving between JavaScript, TypeScript, Go, and Rust — shipping is how I learn best.
 
-## About me
+## 🔨 What I'm building now
 
-- For four and a half years, the sole frontend engineer on [Spaceship](https://www.spaceship.com) domain search at Namecheap — helped the platform sell 3M+ domains.
-- Written 100+ technical articles on JavaScript, TypeScript, React, and Node.js for [LogRocket](https://blog.logrocket.com/author/leonardomaldonado/) and [Progress](https://www.telerik.com/blogs/author/leonardo-maldonado).
-- I build things across languages — JavaScript, TypeScript, Go, Rust — because shipping is how I learn.
+### [Luca](https://setluca.com) — a better way for coaches to handle their DMs
 
-## Projects
+Online coaches lose clients for one simple reason: they can't reply fast enough. Luca watches your inbox across Telegram, Instagram, Messenger, and WhatsApp, writes each reply the way you'd write it, and books the call for you. You read every draft and approve it before it goes out, so you're always the one deciding what gets sent. It's the main thing I'm working on right now.
 
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) — 33 JavaScript concepts every developer should know. 66K+ stars and translated into 40+ languages by the community.
-- [Shopwyse](https://www.getshopwyse.com/) — An ERP I built for retailers who need POS, inventory, CRM, and financial reporting under one roof. TanStack Start, Elysia, PostgreSQL.
-- [Polyglot](https://www.trypolyglot.ai/) — An AI writing assistant that interviews you first, then drafts content in your voice from different angles.
-- [Otis Finance](https://otisfinance.com/) — A stock market API for real-time prices, SEC filings, earnings, and financials.
-- [gone](https://github.com/leonardomso/gone) — I wanted a dead link detector that was actually fast, so I wrote one in Go. Concurrent, has a TUI, and works in CI.
-- [betterhook](https://github.com/leonardomso/betterhook) — A git hooks manager I built in Rust because existing ones don't handle worktrees or parallel agents well. DAG scheduling, blake3 caching, Tokio under the hood.
-- [rust-skills](https://github.com/leonardomso/rust-skills) — 179 rules I wrote so AI coding agents stop guessing when they write Rust.
+### [Strait](https://strait.dev) — a home for your background jobs
+
+Strait is an open-source tool for running background jobs and multi-step workflows. It uses the Postgres database you already have instead of making you set up Redis or a separate queue. You get reliable job queues, workflows you can pause for manual approval, and a clear view of everything that's running. It's written in Go, with libraries for TypeScript, Python, Go, Ruby, and Rust.
+
+## Also built
+
+- **[33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)** — 33 concepts every JS developer should know. 66K+ stars and translated into 40+ languages by the community.
+- **[Shopwyse](https://www.getshopwyse.com/)** — An ERP for retailers that brings POS, inventory, CRM, and financial reporting into one place. Built with TanStack Start, Elysia, and PostgreSQL.
+- **[Polyglot](https://www.trypolyglot.ai/)** — A writing assistant that interviews you first, then drafts content the way you'd actually write it.
+- **[Otis Finance](https://otisfinance.com/)** — A stock market API for real-time prices, SEC filings, earnings, and financials.
+- **[gone](https://github.com/leonardomso/gone)** — A dead-link checker I wanted to be genuinely fast, so I wrote it in Go. Concurrent, with a TUI, and works in CI.
+- **[betterhook](https://github.com/leonardomso/betterhook)** — A git hooks manager in Rust that handles worktrees and parallel agents properly. DAG scheduling, blake3 caching, Tokio under the hood.
+- **[rust-skills](https://github.com/leonardomso/rust-skills)** — 179 rules that keep coding agents from guessing when they write Rust.
 
 ## Writing
 
-- [LogRocket Blog](https://blog.logrocket.com/author/leonardomaldonado/) — React, TypeScript, frontend architecture.
-- [Progress / Telerik Blog](https://www.telerik.com/blogs/author/leonardo-maldonado) — React, Node.js, modern JavaScript.
+- **[LogRocket](https://blog.logrocket.com/author/leonardomaldonado/)** — React, TypeScript, and frontend architecture.
+- **[Progress / Telerik](https://www.telerik.com/blogs/author/leonardo-maldonado)** — React, Node.js, and modern JavaScript.
 
 ## Get in touch
 
